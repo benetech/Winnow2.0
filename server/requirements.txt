@@ -9,4 +9,4 @@ celery==5.2.3
 redis==3.5.3
 Flask-SocketIO==5.0.0
 eventlet==0.30.0
-Werkzeug==2.0.3
+Werkzeug==2.2.3
